@@ -1,0 +1,42 @@
+{
+  "name": "dehashed",
+  "version": "1.0.0",
+  "description": "Bot Discord dehashed developped by OldModz95",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldmodz95-ytb/dehashed-nodejs.git"
+  },
+  "keywords": [
+    "dehashed",
+    "oldmodz95",
+    "leak",
+    "information",
+    "email",
+    "password",
+    "leaked",
+    "ip",
+    "hash",
+    "data",
+    "base",
+    "bot",
+    "discord",
+    "bot",
+    "discord",
+    "protondev"
+  ],
+  "author": "OldModz95#3105",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oldmodz95-ytb/dehashed-nodejs/issues"
+  },
+  "homepage": "https://github.com/oldmodz95-ytb/dehashed-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "request": "^2.88.2"
+  }
+}
